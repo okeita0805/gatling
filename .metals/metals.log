@@ -1,0 +1,47 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/keita/gatling'
+INFO  time: initialize in 0.61s
+WARN  no build tool detected in workspace '/Users/keita/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Apr 25, 2020 12:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+Apr 25, 2020 12:19:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 190
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build tool detected in workspace '/Users/keita/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
