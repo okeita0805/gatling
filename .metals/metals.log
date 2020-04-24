@@ -45,3 +45,4 @@ WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdat
 WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
 WARN  no build tool detected in workspace '/Users/keita/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 WARN  no build target for: /Users/keita/gatling/scenario/simulations/computerdatabase/Sample.scala
+WARN  no build tool detected in workspace '/Users/keita/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
